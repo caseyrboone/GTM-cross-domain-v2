@@ -105,14 +105,6 @@ function isAllowedOrigin(origin) {
 
 ---
 
-## License
-
-MIT (or your choice).
-
-
-
----
-
 ## v2 Updates
 
 - Added an **origin guard** at the top of each `message` handler:
